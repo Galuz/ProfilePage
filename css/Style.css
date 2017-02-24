@@ -140,6 +140,7 @@ article section div#back1{
 }
 article section, footer {
     padding-bottom: 30PX;
+    padding-top: 42px
 }
 
 /*Lastest Project------------------------------------------------------------------------------------------*/
@@ -160,6 +161,7 @@ article section#Professional_Skills{
   border-color: #000;
   border-width: 2px;
   background-color: #333;
+  padding-top: 29px;
 }
 article section#Professional_Skills figure{
   display: flex;
