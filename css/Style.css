@@ -264,8 +264,10 @@ footer#Contact img{
   background-image: url("../images/TitleGame.png");
   background-repeat: no-repeat;
   margin: 3px;
-  padding: 10px 0 0 10px;
+  padding: 0px 0 0 10px;
   margin-bottom: 10px;
+  position: relative;
+  top: -79px;
   }
   .flex-itemPhones {
   display:flex;
@@ -278,6 +280,8 @@ footer#Contact img{
   margin: 3px;
   padding: 10px 0 0 10px;
   margin-bottom: 10px;
+  position: relative;
+  top: 20px;
   }
 .flex-item img{
   flex-grow:0;
